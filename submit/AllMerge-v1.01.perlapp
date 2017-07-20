@@ -1,0 +1,33 @@
+#!D:\Program Files\ActiveState Perl Dev Kit 9.5.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: D:\Program Files\ActiveState Perl Dev Kit 9.5.1\bin\perlapp.exe
+Script: AllMerge-v1.01.pl
+Cwd: E:\sync\exam\AllMerge\AllMerge-V1.01
+Clean: 0
+Date: 2016-08-24 21:28:14
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: AllMerge-v1.01-windows-x86-32.exe
+Force: 0
+Gui: 0
+Hostname: win10-lenovo
+Manifest: 
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: 
+Version-FileDescription: 
+Version-FileVersion: 
+Version-InternalName: 
+Version-LegalCopyright: 
+Version-LegalTrademarks: 
+Version-OriginalFilename: 
+Version-ProductName: 
+Version-ProductVersion: 
+Warnings: 0
+Xclude: 0
